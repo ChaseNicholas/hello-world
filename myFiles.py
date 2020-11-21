@@ -4,3 +4,5 @@ myArg = sys.argv[1]
 
 print("World")
 myLetter = "world"[4]
+
+print(myLetter)
